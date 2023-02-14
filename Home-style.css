@@ -1,0 +1,49 @@
+h1 {
+    color: brown;
+    text-align: center;
+    font-size: 475px;
+   line-height: 1px;
+
+}
+body {
+    background-color: tan;
+    color: brown;
+
+}
+ul {
+    color: brown;
+    display: inline-flex;
+    list-style-type: none;
+padding: 20px;
+    border-top: 5px solid brown;
+    border-bottom: 5px solid brown;
+
+   
+}
+li {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+nav {
+    position: sticky;
+    top: 0em;
+    background-color: tan;
+    color: tan;
+    text-align: center;
+    font-size: 30px;
+    color: brown;
+}
+
+a:link {
+    text-decoration: none;
+    color: brown;
+}
+
+a:hover {
+    color: black;
+}
+
+img {
+margin: 100px;
+border: 10px double brown;
+}
